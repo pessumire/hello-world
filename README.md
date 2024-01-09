@@ -1,6 +1,8 @@
 # hello-world
 This repository is for the hello-world assignment for Scripting languages. This also is my first repository. 
 Some fun facts about me... I like to lift weights because tearing muscle fibers is metal as fuck. 
+
+
 Checklist
 Make sure you completed the following items before you submit the assignment on Canvas:
 
